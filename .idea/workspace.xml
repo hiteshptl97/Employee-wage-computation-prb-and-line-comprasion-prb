@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="081953eb-18a5-417a-b097-ae8fae81fb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeewageD3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/employeewage/Addparttimeemplowage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/employeewage/Calculatedailyemployeewage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/employeewage/Calculatewageformonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/employeewage/Solvinguseswitchcasestatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/employeewage/Workinghourordayreachmonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employeecomputationprb/Geometrycheckequalitytwolines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employeecomputationprb/Geometryusingthecartesiansystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employeecomputationprb/Welcomeline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employeecomputationprb/geometrycomparetwolines.java" afterDir="false" />
-    </list>
+    <list default="true" id="081953eb-18a5-417a-b097-ae8fae81fb05" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
